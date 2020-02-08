@@ -8,7 +8,7 @@ Assignment2 compeleted
   Afterwords it will display a message containing the user’s name, welcoming them to the app. e.g. 
       “Welcome, Jane Dough, to the SignUpForm App”
  
-##The function of application
+## The function of application
 
   // verify the information in 4 EditText when user click the "SAVE" button.
       button.setOnClickListener(new View.OnClickListener() {}
